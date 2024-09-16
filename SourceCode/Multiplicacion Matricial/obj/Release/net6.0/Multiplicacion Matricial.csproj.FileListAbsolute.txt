@@ -1,0 +1,15 @@
+C:\Users\Eliham\Desktop\Estudio\Unity\DreamValley\Taller2Scripting\Ejercicio 3\Multiplicacion Matricial\Multiplicacion Matricial\bin\Release\net6.0\Multiplicacion Matricial.exe
+C:\Users\Eliham\Desktop\Estudio\Unity\DreamValley\Taller2Scripting\Ejercicio 3\Multiplicacion Matricial\Multiplicacion Matricial\bin\Release\net6.0\Multiplicacion Matricial.deps.json
+C:\Users\Eliham\Desktop\Estudio\Unity\DreamValley\Taller2Scripting\Ejercicio 3\Multiplicacion Matricial\Multiplicacion Matricial\bin\Release\net6.0\Multiplicacion Matricial.runtimeconfig.json
+C:\Users\Eliham\Desktop\Estudio\Unity\DreamValley\Taller2Scripting\Ejercicio 3\Multiplicacion Matricial\Multiplicacion Matricial\bin\Release\net6.0\Multiplicacion Matricial.dll
+C:\Users\Eliham\Desktop\Estudio\Unity\DreamValley\Taller2Scripting\Ejercicio 3\Multiplicacion Matricial\Multiplicacion Matricial\bin\Release\net6.0\Multiplicacion Matricial.pdb
+C:\Users\Eliham\Desktop\Estudio\Unity\DreamValley\Taller2Scripting\Ejercicio 3\Multiplicacion Matricial\Multiplicacion Matricial\obj\Release\net6.0\Multiplicacion Matricial.csproj.AssemblyReference.cache
+C:\Users\Eliham\Desktop\Estudio\Unity\DreamValley\Taller2Scripting\Ejercicio 3\Multiplicacion Matricial\Multiplicacion Matricial\obj\Release\net6.0\Multiplicacion Matricial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eliham\Desktop\Estudio\Unity\DreamValley\Taller2Scripting\Ejercicio 3\Multiplicacion Matricial\Multiplicacion Matricial\obj\Release\net6.0\Multiplicacion Matricial.AssemblyInfoInputs.cache
+C:\Users\Eliham\Desktop\Estudio\Unity\DreamValley\Taller2Scripting\Ejercicio 3\Multiplicacion Matricial\Multiplicacion Matricial\obj\Release\net6.0\Multiplicacion Matricial.AssemblyInfo.cs
+C:\Users\Eliham\Desktop\Estudio\Unity\DreamValley\Taller2Scripting\Ejercicio 3\Multiplicacion Matricial\Multiplicacion Matricial\obj\Release\net6.0\Multiplicacion Matricial.csproj.CoreCompileInputs.cache
+C:\Users\Eliham\Desktop\Estudio\Unity\DreamValley\Taller2Scripting\Ejercicio 3\Multiplicacion Matricial\Multiplicacion Matricial\obj\Release\net6.0\Multiplicacion Matricial.dll
+C:\Users\Eliham\Desktop\Estudio\Unity\DreamValley\Taller2Scripting\Ejercicio 3\Multiplicacion Matricial\Multiplicacion Matricial\obj\Release\net6.0\refint\Multiplicacion Matricial.dll
+C:\Users\Eliham\Desktop\Estudio\Unity\DreamValley\Taller2Scripting\Ejercicio 3\Multiplicacion Matricial\Multiplicacion Matricial\obj\Release\net6.0\Multiplicacion Matricial.pdb
+C:\Users\Eliham\Desktop\Estudio\Unity\DreamValley\Taller2Scripting\Ejercicio 3\Multiplicacion Matricial\Multiplicacion Matricial\obj\Release\net6.0\Multiplicacion Matricial.genruntimeconfig.cache
+C:\Users\Eliham\Desktop\Estudio\Unity\DreamValley\Taller2Scripting\Ejercicio 3\Multiplicacion Matricial\Multiplicacion Matricial\obj\Release\net6.0\ref\Multiplicacion Matricial.dll
